@@ -3,8 +3,6 @@
 - 📫 Feel free to reach out at: tditmars@umich.edu
 <br >
 
-![Tyler's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tditmars&count_private=true&show_icons=true&hide=stars&bg_color=000000&text_color=FFFFFF&icon_color=FFFF00)
-
 <!--
 **tditmars/tditmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
